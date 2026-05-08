@@ -34,7 +34,7 @@ Fake News : https://www.kaggle.com/datasets/hassanamin/textdb3
 
 ---
 
-## 📊 Train-Test Split
+## Train-Test Split
 
 - 80% Training Data  
 - 20% Testing Data  
